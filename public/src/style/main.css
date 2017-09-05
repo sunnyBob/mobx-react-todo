@@ -1,0 +1,14 @@
+.item {
+  margin-bottom: 14px;
+}
+.fa-times {
+  color: red;
+  cursor: pointer;
+}
+.line {
+  text-decoration: line-through;
+  text-decoration-color: red;
+}
+#app {
+  padding: 20px; 
+}
